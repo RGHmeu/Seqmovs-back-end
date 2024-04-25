@@ -1,0 +1,49 @@
+[2024-04-18 11:02:44,759] INFO _log() L96   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000 - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:02:44,759] INFO _log() L96   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:02:44,759] INFO _log() L96    * Restarting with stat - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:02:53,263] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:02:53] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:06:05,831] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:06:05] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:01,219] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:01] "GET /openapi/ HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:01,334] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:01] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:01,471] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:01] "[36mGET /openapi/static/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:01,607] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:01] "[36mGET /openapi/static/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:02,564] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:02] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:02,749] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:02] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:02,891] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:02] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:02,959] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:02] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:12:03,477] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:12:03] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:13:00,282] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:13:00] "POST /movimento HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:13:09,616] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:13:09] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:13:21,469] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:13:21] "OPTIONS /movimento?codigo=Desenv0001 HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:13:21,532] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:13:21] "DELETE /movimento?codigo=Desenv0001 HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:15:16,652] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:15:16] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:17:59,400] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:17:59] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:21:46,573] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:21:46] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:24:17,621] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:24:17] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:25:01,121] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:25:01] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:25:06,134] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:25:06] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:25:45,398] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:25:45] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:25:50,440] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:25:50] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:28:04,844] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:28:04] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:29:32,056] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:29:32] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:31:13,037] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:31:13] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:31:55,989] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:31:55] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:32:01,752] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:32:01] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:32:06,702] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:32:06] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:33:00,623] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:33:00] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:33:04,160] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:33:04] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:40:30,361] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:40:30] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:41:39,771] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:41:39] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:42:18,636] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:42:18] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 11:42:33,120] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 11:42:33] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:07:11,240] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:07:11] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:07:30,697] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:07:30] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:12:05,478] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:12:05] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:15:10,489] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:15:10] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:22:02,086] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:22:02] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:22:20,628] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:22:20] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:23:09,178] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:23:09] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2024-04-18 12:25:38,698] INFO _log() L96   127.0.0.1 - - [18/Apr/2024 12:25:38] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\SEQMOVS\env\Lib\site-packages\werkzeug\_internal.py L96  
