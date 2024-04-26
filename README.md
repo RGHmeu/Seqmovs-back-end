@@ -6,4 +6,4 @@ A ideia é disponibilizar pequenos vídeos mostranto cada movimento junto com al
 
 Inclui o uso de um arquivo onde ficarão grardadas as coordenadas obtidas de uma API externa de geolocaliazação, para uso de estatísticas de uso do aplicativo Seqmovs, dando uma visão espacial dos usuários. 
 
-Inclui também uma preparação para o uso do Docker para conteinerização de cada um dos componentes, de forma a poderem ser executados em plataformas diferentes daquela em que foram desenvolvidos.
+Inclui também uma preparação para o uso do Docker para conteinerização deste componente, de forma a poder ser executado em plataformas diferentes daquela em que foi desenvolvido.
